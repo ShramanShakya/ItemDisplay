@@ -1,4 +1,4 @@
-export const items = [
+const items = [
   {
     id: 1,
     name: "Mouse",
